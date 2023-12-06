@@ -5,6 +5,7 @@ import org.j01.knapsack.KnapsackSolution;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        // Knapsack
         int n = 4;
         int cap = 7;
         int[] w = {0, 1, 3, 4, 5};
